@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guthikonda-Siddhartha-Reddy
+- 👋 Hi, I’m @Guthikonda Siddhartha Reddy
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on ...
